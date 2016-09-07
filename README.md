@@ -1,2 +1,2 @@
 # Highlights-Prediction-on-News
-Master Project for Highlights Prediction with Attentive Bidirectional LSTM
+Master Project of Highlights Prediction with Attentive Bidirectional LSTM
